@@ -33,7 +33,7 @@ menuIcon.onclick = ()=>{
 }
 
 ScrollReveal({ 
-    reset: true,
+    reset: false,
     distance: '80px',
     duration: 1000,
     delay: 200
