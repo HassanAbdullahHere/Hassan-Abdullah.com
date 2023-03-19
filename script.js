@@ -98,7 +98,7 @@ function sendMail(){
             document.getElementById('email').value = '';
             document.getElementById('message').value = '';
             document.getElementById("name").value = '';
-            document.getElementById('number').value = '';
+            document.getElementById('num').value = '';
             document.getElementById('subject').value = '';
             alert("Message Sent Successfully");
         }
